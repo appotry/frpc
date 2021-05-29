@@ -5,6 +5,9 @@
 - GitHub [stilleshan/frpc](https://github.com/stilleshan/frpc)
 - Docker [stilleshan/frpc](https://hub.docker.com/r/stilleshan/frpc)
 
+## 更新
+**2021-05-29** 更新从`0.36.2`版本起 docker 镜像同时支持 X86 和 ARM
+
 ## 使用说明
 以下分为四种部署方法,请根据实际情况自行选择:
 - 群晖NAS docker 安装 **[支持 docker 的群晖机型首选]**
